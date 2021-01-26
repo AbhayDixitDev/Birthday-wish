@@ -2,7 +2,7 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: https://github.com/Abhaydixitji/Birthday-wish.git
+URL: https://Abhaydixitji.github.io/Birthday-wish/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
@@ -10,7 +10,7 @@ Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
 ## If you have python installed:
 ```
-cd Birthday
+cd Birthday-wish
 ```
 
 && 
